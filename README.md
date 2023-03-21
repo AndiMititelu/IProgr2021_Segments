@@ -1,1 +1,2 @@
-# IProgr2021_Segments
+# Segments
+Worked in a team of 2 for a project for "Introduction to Programming" class where we implemented a simple game written in C and WinBGIm graphics library. The rules of the game are simple, each player must draw a segment between the available dots on the screen without intersecting with another segment already on the screen. The player that draws the last segment wins the game. The player can also choose to play against the computer that has 2 difficulties.
